@@ -1,5 +1,6 @@
 # Step-Increment-App-MLH
 A basic android app to understand the use of sensors.
+
 Some useful sites to create this:
 Android Studio : https://developer.android.com/studio/intro
 
